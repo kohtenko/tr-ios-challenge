@@ -21,14 +21,28 @@
     {
       "id": 4,
       "name": "Toy Story",
-      "thumbnail": "https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/4.jpg",
+      "thumbnail": "httpss://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/4.jpg",
       "year": 1995
     },
     {
       "id": 5,
       "name": "The Dark Knight",
-      "thumbnail": "https://raw.githubusercontent.com/TradeRev/tr-ios-challenge/master/5.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/kohtenko/tr-ios-challenge/master/5.jpg",
       "year": 2008
+    }
+  ],
+  "actors": [
+    {
+      "id": 1,
+      "fullName": "Samuel L. Jackson",
+      "thumbnail": "https://raw.githubusercontent.com/kohtenko/tr-ios-challenge/master/1.jpg",
+      "age": 72
+    },
+    {
+      "id": 2,
+      "fullName": "Quentin Tarantino",
+      "thumbnail": "https://raw.githubusercontent.com/kohtenko/tr-ios-challenge/master/2.jpg",
+      "age": 57
     }
   ]
 }
